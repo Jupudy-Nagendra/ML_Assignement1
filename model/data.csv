@@ -1,0 +1,11 @@
+﻿Text,Label
+"""I love this product, it's amazing!""",positive
+"""This is the worst experience ever.""",negative
+"""Limited time offer, buy now!""",spam
+"""Looking forward to the meeting tomorrow.""",neutral
+"""Your account has been compromised.""",alert
+"""This movie was fantastic!""",positive
+"""Can we reschedule our appointment?""",neutral
+"""Click here to claim your free gift.""",spam
+"""I am very disappointed with the service.""",negative
+"""Don't miss out on this incredible deal!""",spam
