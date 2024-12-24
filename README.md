@@ -8,3 +8,8 @@ python model/train.py
 
 ## Run Fast API
 uvicorn app.main:app --reload
+
+http://127.0.0.1:8000/docs
+get curl command 
+
+use that command in postman to check the results
